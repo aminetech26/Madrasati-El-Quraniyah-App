@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455093234033",
+    "project_id": "madrasatielquraniyah",
+    "storage_bucket": "madrasatielquraniyah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455093234033:android:fba515ad7be6ee9062eed0",
+        "android_client_info": {
+          "package_name": "com.example.madrasatielquraniyah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455093234033-p43r8oq8ihp8168lv8n7u7p6kc897akn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCEDIKTlSO5_qWPMekp0SDkDudVsstdZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455093234033-p43r8oq8ihp8168lv8n7u7p6kc897akn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
